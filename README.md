@@ -1,2 +1,3 @@
 # dangerous-driving
-资策会专题 (yolov3)
+a project of YOLOV3 inspired by experiencor/keras-yolo3 and pjreddie/darknet
+
